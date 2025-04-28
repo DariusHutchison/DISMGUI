@@ -1,0 +1,14 @@
+C:\Users\Darius\source\repos\DariusHutchison\DISMGUI\8.0\DISM GUI\bin\x64\Debug\DISM GUI.exe.config
+C:\Users\Darius\source\repos\DariusHutchison\DISMGUI\8.0\DISM GUI\bin\x64\Debug\DISM GUI.exe
+C:\Users\Darius\source\repos\DariusHutchison\DISMGUI\8.0\DISM GUI\bin\x64\Debug\DISM GUI.pdb
+C:\Users\Darius\source\repos\DariusHutchison\DISMGUI\8.0\DISM GUI\bin\x64\Debug\DISM GUI.xml
+C:\Users\Darius\source\repos\DariusHutchison\DISMGUI\8.0\DISM GUI\obj\x64\Debug\DISM GUI.vbproj.AssemblyReference.cache
+C:\Users\Darius\source\repos\DariusHutchison\DISMGUI\8.0\DISM GUI\obj\x64\Debug\DISM_GUI.frmAbout.resources
+C:\Users\Darius\source\repos\DariusHutchison\DISMGUI\8.0\DISM GUI\obj\x64\Debug\DISM_GUI.frmMain.resources
+C:\Users\Darius\source\repos\DariusHutchison\DISMGUI\8.0\DISM GUI\obj\x64\Debug\DISM_GUI.frmProgress.resources
+C:\Users\Darius\source\repos\DariusHutchison\DISMGUI\8.0\DISM GUI\obj\x64\Debug\DISM_GUI.Resources.resources
+C:\Users\Darius\source\repos\DariusHutchison\DISMGUI\8.0\DISM GUI\obj\x64\Debug\DISM GUI.vbproj.GenerateResource.cache
+C:\Users\Darius\source\repos\DariusHutchison\DISMGUI\8.0\DISM GUI\obj\x64\Debug\DISM GUI.vbproj.CoreCompileInputs.cache
+C:\Users\Darius\source\repos\DariusHutchison\DISMGUI\8.0\DISM GUI\obj\x64\Debug\DISM GUI.exe
+C:\Users\Darius\source\repos\DariusHutchison\DISMGUI\8.0\DISM GUI\obj\x64\Debug\DISM GUI.xml
+C:\Users\Darius\source\repos\DariusHutchison\DISMGUI\8.0\DISM GUI\obj\x64\Debug\DISM GUI.pdb
