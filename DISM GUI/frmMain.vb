@@ -1,5 +1,7 @@
 ﻿Imports Microsoft.Win32
+Imports System.ComponentModel
 Public Class frmMain
+    <DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)>
     Public Property RedirectStandardOutput As Boolean
     Dim strFolderName As String
     Dim WIMMounted As Boolean = False
